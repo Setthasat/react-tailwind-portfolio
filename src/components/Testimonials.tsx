@@ -1,4 +1,3 @@
-import { MdOpacity } from "react-icons/md";
 import { TESTIMONIALS } from "../constants";
 import { motion } from "framer-motion";
 
